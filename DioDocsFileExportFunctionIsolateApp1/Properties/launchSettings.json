@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DioDocsFileExportFunctionIsolateApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7287",
+      "launchBrowser": false
+    }
+  }
+}
